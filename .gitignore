@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+server/dist/
+
+# Environment variables
+.env
+.env.*
+server/.env
+server/.env.*
+
+# Credentials & local secrets
+secrets/
+server/secrets/
+*.service-account.json
+*-firebase-adminsdk-*.json
+
+# Test coverage & logs
+coverage/
+*.log
+
+# Firebase CLI (local cache / debug output)
+.firebase/
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*
