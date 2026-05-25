@@ -2,8 +2,6 @@
 
 QuizForge is a React + TypeScript quiz builder SPA with an Express + Firebase REST API backend. Authenticated users can create, preview, publish, and delete quizzes; anonymous visitors can open published quiz links and receive a server-scored result.
 
-**Here is a demo of the submission: https://www.loom.com/share/e0b7e931a0694d7ca363c128a05b0e30**
-
 ## Project structure
 
 ```text
